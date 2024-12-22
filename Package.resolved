@@ -1,0 +1,24 @@
+{
+  "originHash" : "6333b801ceca4db98c943f025fe4e63e90fd1b3bfe5f9ea9824aa40788dad778",
+  "pins" : [
+    {
+      "identity" : "forwarding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DavidSkrundz/Forwarding.git",
+      "state" : {
+        "revision" : "ac91971318f1332e253bc5cc23ab296c6792d4f7",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "version" : "600.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
